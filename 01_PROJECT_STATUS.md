@@ -16,6 +16,7 @@ https://github.com/Liangjun888/gold-summit-capital
 - 已完成首个提交 `9a1b310` (`Initial project import`)
 - 已推送 `main` 分支到远端私有仓库
 - 远端 `origin` 已绑定到 `Liangjun888/gold-summit-capital`
+- 已新增仓库根目录 `README.md`，用于跨电脑 Codex 交接和项目入口说明
 
 协作规则更新：
 
