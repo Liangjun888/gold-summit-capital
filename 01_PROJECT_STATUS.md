@@ -1,5 +1,28 @@
 # 项目状态
 
+## 2026-06-21 更新
+
+项目主仓库已创建并推送到 GitHub。
+
+仓库地址：
+
+```text
+https://github.com/Liangjun888/gold-summit-capital
+```
+
+当前仓库状态：
+
+- 已初始化本地 Git 仓库
+- 已完成首个提交 `9a1b310` (`Initial project import`)
+- 已推送 `main` 分支到远端私有仓库
+- 远端 `origin` 已绑定到 `Liangjun888/gold-summit-capital`
+
+协作规则更新：
+
+- 后续变更默认先进入审查模式，再决定是否修改、提交或推送
+
+最后更新：2026-06-21
+
 ## 2026-05-19 更新
 
 公共网站 V1 已进入可运行原型阶段。

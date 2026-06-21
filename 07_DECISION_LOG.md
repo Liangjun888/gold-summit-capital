@@ -162,3 +162,19 @@ Gold Summit Capital V1 视觉采用深棕、金棕、米白、暖灰、石墨灰
 - `/zh-CN/client-portal/`
 
 客户专属区 V1 仍只做私密入口说明，不做真实登录，也不做假登录表单。
+
+## 2026-06-21
+
+### 决策 20：项目主仓库已独立放入 GitHub 私有仓库
+
+主仓库地址为：
+
+- `https://github.com/Liangjun888/gold-summit-capital`
+
+该仓库用于承载项目文档、策略文件和 `gold-summit-capital-site/` 网站源码，区别于此前单独存在的公共网站仓库 `gold-summit-capital-site`。
+
+### 决策 21：后续 AI 协作默认先进入审查模式
+
+后续涉及代码、文档或仓库层面的变更时，默认先做审查与风险检查，再决定是否实施修改、提交或推送。
+
+该规则当前是协作约定，不等同于 GitHub 分支保护、强制 PR 审批或自动化机器人审查。
